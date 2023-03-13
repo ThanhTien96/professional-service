@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "name": "Partner",
+      "url": "#partner"
+    },
+    {
+      "name": "Service",
+      "url": "#service"
+    },
+    {
+      "name": "About Us",
+      "url": "#about"
+    },
+    {
+      "name": "Reference",
+      "url": "#refer"
+    }
+  ],
+  "logo": "../dynexo_logo_white.svg",
+  "btnText": "Contact",
+  "url": "#contact"
+}
